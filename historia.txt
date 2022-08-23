@@ -5,3 +5,6 @@ recientemente hizo un switch de carrera como
 Full Stack Developer
 
 Hoy hablaremos de su historia
+
+La semana pasada comenzó su primer trabajo como 
+desarrollador en CompuSoluciones
