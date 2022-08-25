@@ -4,4 +4,9 @@ José Vidal tiene 37 años y nación en México
 recientemente hizo un switch de carrera como
 Full Stack Developer
 
+Estudió un bootcamp de coding del 
+Instituto Tecnológico y de Estudios Superiores
+de Monterrey, con el cuál aprendió diferentes 
+tecnologías para Web Development.
+
 Mañana nos enfocaremos en su vida laboral
